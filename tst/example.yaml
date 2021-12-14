@@ -1,0 +1,7 @@
+#dbhost: dev-be-rds-pg-catsdb1-pg12.ctu98ems4mf7.eu-west-3.rds.amazonaws.com
+dbhost: "foo.rds.amazonaws.com"
+dbuser: toto
+dbpassword: titi
+dbport: 5432
+dbname: mydb
+sizelimit: 400    # Go
